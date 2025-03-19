@@ -1,0 +1,13 @@
+.bg-success {
+    /* background: rgb(99,184,196);
+background: linear-gradient(135deg, rgba(99,184,196,0.09576330532212884) 0%, rgba(93,212,219,1) 6%, rgba(214,241,241,1) 61%); */
+background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+
+
+  }
+
+.bg-button {
+    background: rgb(99,184,196);
+ background: linear-gradient(135deg, rgba(99,184,196,0.09576330532212884) 0%, rgba(255,255,255,1) 42%, rgba(214,241,241,1) 100%); 
+ 
+}  
